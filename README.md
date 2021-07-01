@@ -14,9 +14,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tokenblvck)
 
-pic on right
-<img height="270" src="sss.svg" align=right>
-
 
 programming languages:
 ![Python](https://img.shields.io/badge/Python-FECE00?style=flat&logo=Python&logoColor=3776AB)

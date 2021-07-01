@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a screenshare tool for Sona Industries, LLC.
 - 🌱 I’m currently learning MatLab!
-- ✨ I know Python, Java, Scala, C++, C, R, SQL, and much more!
+- ✨ I know Python, Java, Scala, C++, C, R, Go, and much more!
 <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on

@@ -1,5 +1,5 @@
->Howdy!, I am <a href="https://github.com/tokenblvck">Lurie</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
-</h1>
+###Howdy!, I am <a href="https://github.com/tokenblvck">Lurie</a> 
+
 
 ## ⚡️ A Few Quick Facts
 

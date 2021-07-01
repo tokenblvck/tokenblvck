@@ -12,12 +12,6 @@
   - 📊 Machine Learning & Data Science
   - 🖼 Video Game AntiCheats
 
-### 🚀 Quick Stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tokenblvck7&show_icons=true&line_height=21&theme=react" alt="tokenblvck's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokenblvck&theme=react&line_height=27&layout=compact" />
-</p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=tokenblvck)
 
 pic on right
